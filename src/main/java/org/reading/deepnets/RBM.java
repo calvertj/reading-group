@@ -2,6 +2,7 @@ package org.reading.deepnets;
 
 import java.util.Random;
 
+//Restricted Boltzman machine
 public class RBM {
 	
 	private static Random rand = new Random();
